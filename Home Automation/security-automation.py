@@ -5,9 +5,9 @@ import serial
 import smtplib
 import email.utils
  
-TO = 'debadridtt@gmail.com'
-GMAIL_USER = 'debadriworkshop@gmail.com'
-GMAIL_PASS = 'Rickstar123'
+TO = 'receiver@gmail.com'
+GMAIL_USER = 'youemail@gmail.com'
+GMAIL_PASS = '********'
  
 SUBJECT = 'Someone is there at your doorstep'
 TEXT = 'Doorstep Detection-Someone is there at your doorstep. Get the live CCTV footage at: http://192.168.1.2:8080' #Put your IP Webcam IP address
